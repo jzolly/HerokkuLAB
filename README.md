@@ -1,3 +1,4 @@
 # HerokkuLAB
+https://hlab.herokuapp.com/
 
-https://git.heroku.com/hlab.git
+
